@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="marker-stex">
+<symbol name="marker-stex">
+<group>
+<text matrix="1 0 0 1 -144 -664" transformations="translations" pos="128 672" stroke="red" type="label" width="25.787" height="8.302" depth="0" halign="center" valign="center" size="normal">\textsf{\textbf{StEx}}</text>
+<path matrix="1 0 0 1 -160 -672" stroke="red" pen="heavier">
+128 688 m
+128 672 l
+160 672 l
+160 688 l
+h
+</path>
+</group>
+</symbol>
+</ipestyle>
