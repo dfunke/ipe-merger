@@ -6,7 +6,7 @@ It is based on the work by Simon Fink (https://gitlab.infosun.fim.uni-passau.de/
 ## Usage
 
 ```
-merge-marked.py OUT_FILE IN_FIES
+merge-ipe-files.py OUT_FILE IN_FIES
 ```
 
 Optional arguments
